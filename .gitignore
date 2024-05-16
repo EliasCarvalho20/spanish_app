@@ -174,3 +174,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
+# Postgre
+postgre/
+
+# Text files
+*.txt
+
+# Audio files
+*.mp3
+
+# QT config
+*.pyproject*
